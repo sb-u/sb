@@ -1,1 +1,10 @@
-nothing 
+SB Insta V3.60 Update :
+
+
+• [Base Update] 199.1.0.34.119
+
+• [Added] Download Own Story With Music
+
+• [Added] New UI 
+ 
+• [Misc] Bug fixes and performance improvements 
