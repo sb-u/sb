@@ -1,10 +1,10 @@
-SB Insta V3.60 Update :
+SB Insta V3.65 Update :
 
 
-• [Base Update] 199.1.0.34.119
+• [FIXED] Profile Download
 
-• [Added] Download Own Story With Music
+• [FIXED] Unsend Message
 
-• [Added] New UI 
+• [FIXED] New UI
  
-• [Misc] Bug fixes and performance improvements 
+• [FIXED] Copy & Transalate Commands 
