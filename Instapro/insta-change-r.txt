@@ -1,13 +1,25 @@
-SB Insta V3.65 Update :
+SB Insta V3.70 Update :
+
+• [ADDED] Unlimited Add Accounts
+
+• [ADDED] New Fonts
+
+• [REMOVE] Backup & Restore
+
+• [REMOVE] Unfollow Tracker
 
 
-• [FIXED] Profile Download
 
-• [FIXED] Unsend Message
+• [FIXED] Heating & battery consuming
 
-• [FIXED] New UI
+
+
+
+
+
+
  
-• [FIXED] Copy & Transalate Commands
+
 
 
 
