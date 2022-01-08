@@ -1,16 +1,16 @@
-SB Insta V3.70 Update :
 
-• [ADDED] Unlimited Add Accounts
-
-• [ADDED] New Fonts
-
-• [REMOVE] Backup & Restore
-
-• [REMOVE] Unfollow Tracker
+SB Insta V3.80 Update :
 
 
+• [Base Update] 215.0.0.27.359
 
-• [FIXED] Heating & battery consuming
+• [New] Optimized downloader feature, more stable!
+
+• [New] Optimized long tap to see profile picture in comments.
+
+• [New] Optimized 'Mark as read' feature, faster and more stable than the previous AeroInsta version!
+ 
+• [Fixed] Other minor fixes and optimizations.
 
 
 
