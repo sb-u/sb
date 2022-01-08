@@ -8,7 +8,7 @@ SB Insta V3.80 Update :
 
 • [New] Optimized long tap to see profile picture in comments.
 
-• [New] Optimized 'Mark as read' feature, faster and more stable than the previous AeroInsta version!
+• [New] Optimized 'Mark as read' feature, faster and more stable than the previous SB Insta version!
  
 • [Fixed] Other minor fixes and optimizations.
 
