@@ -1,25 +1,6 @@
+SB Insta V3.85 Update :
 
-SB Insta V3.80 Update :
 
-
-• [Base Update] 215.0.0.27.359
-
-• [New] Optimized downloader feature, more stable!
-
-• [New] Optimized long tap to see profile picture in comments.
-
-• [New] Optimized 'Mark as read' feature, faster and more stable than the previous SB Insta version!
+• [New] Added message bomber
  
 • [Fixed] Other minor fixes and optimizations.
-
-
-
-
-
-
-
- 
-
-
-
-
