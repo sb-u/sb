@@ -1,6 +1,15 @@
-SB Insta V3.85 Update :
+SB Insta V4.00 Update :
 
 
-• [New] Added message bomber
- 
-• [Fixed] Other minor fixes and optimizations.
+🏷Base Update 223.1.0.14.103
+🧨New Added theme option
+🧨New Added message transalation
+🧨New Check for update option
+🧨New Launcher icon costumaize
+🧨New New privacy ui
+🧨New Show theme button in home
+🧨New Backup & Restore
+🧨New Enable story like button
+🧨New Enable official insta all features
+🚯Remove Story fonts
+🛠️Fixed Many other fixes and improvements
